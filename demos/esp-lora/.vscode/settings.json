@@ -1,0 +1,20 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\Espressif\\frameworks\\esp-idf-v5.5.1",
+  "idf.pythonInstallPath": "d:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-bridge.cfg"
+  ],
+  "idf.portWin": "COM6",
+  "idf.toolsPathWin": "d:\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "d:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=d:\\esp32-lora\\Shock-Detention-Center\\demos\\esp-lora\\build"
+  ],
+  "idf.flashType": "JTAG"
+}
