@@ -16,5 +16,5 @@
     "--query-driver=**",
     "--compile-commands-dir=d:\\esp32-lora\\Shock-Detention-Center\\demos\\esp-lora\\build"
   ],
-  "idf.flashType": "JTAG"
+  "idf.flashType": "UART"
 }
